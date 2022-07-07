@@ -23,3 +23,12 @@
 * ordinary least square method
 * gradient descent method
 * residual, error, squared error, RMSE - Root Mean Squared Error
+
+### Lecture 3:
+* Accuracy metric in Regression problem
+* Mean Absolute Error (MAE)
+* Mean Absolute Percentage Error (MAPE)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
+* R-squared or coefficient of determination
+* Prediction result evaluation
